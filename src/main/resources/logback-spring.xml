@@ -13,7 +13,7 @@
             <pattern>%d{HH:mm:ss.SSS} %-5level [%thread] %logger - %msg%n</pattern>
         </encoder>
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
-            <fileNamePattern>logs/captain_america.log.%d{yyyy-MM-dd}.log</fileNamePattern>
+            <fileNamePattern>logs/marvel.log.%d{yyyy-MM-dd}.log</fileNamePattern>
         </rollingPolicy>
     </appender>
 
